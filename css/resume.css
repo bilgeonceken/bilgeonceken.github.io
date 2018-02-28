@@ -17,7 +17,7 @@
 /* //-- yui-grids style overrides -- */
 body { font-family: Georgia; color: #444; }
 
-body{margin: 60px auto; }
+/*body{margin: 60px auto; } */
 #inner { margin: 0px 0px 60px;  background: #fff; }
 
 .yui-gf {
