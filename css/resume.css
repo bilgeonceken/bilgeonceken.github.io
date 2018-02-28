@@ -45,7 +45,7 @@ body { font-family: Georgia; color: #444; }
 #hd h1 { font-size: 45px; letter-spacing: 3px; }
 
 h2 { font-size: 140% }
-h3 {font-size: 128%;}
+h3 {font-size: 128%; max-width: 75%;}
 h4 { font-size: 110%; }
 
 p { font-size: 95%; line-height: 20px; padding-right: 1em; letter-spacing: .4px; color:#888888}
