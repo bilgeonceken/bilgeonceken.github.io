@@ -16,9 +16,6 @@
 /* //-- yui-grids style overrides -- */
 body { font-family: Georgia; color: #444; }
 
-/*body{margin: 60px auto; } */
-#inner { margin: 0px 0px 60px;  background: #fff; }
-
 .yui-gf {
   padding: 0em 2em;
   margin-bottom: 2em;
@@ -114,6 +111,12 @@ ul{
   font-weight: bold !important;
   color: #4d4a4a !important;
 }
+
+/*body{margin: 60px auto; } */
+
+/* COMMENT OUT THE TRANSFORM INTO PRINTABLE PDF */
+#inner { margin: 0px 0px 60px;  background: #fff; }
+
 .outer{
   max-width: 960px;
   padding: 30px 30px 0 30px;
@@ -125,4 +128,8 @@ ul{
   position: absolute;
   left: 46%;
   top: 60%;
+}
+
+ul.exp > p {
+  line-height: 22px;
 }
