@@ -216,7 +216,7 @@ ul {
 /*body{margin: 60px auto; } */
 
 /* COMMENT OUT THE TRANSFORM INTO PRINTABLE PDF */
-/* #inner {
+#inner {
   margin: 0px 0px 60px;
   background: #fff;
 }
@@ -240,4 +240,4 @@ ul.exp > p {
 
 a {
   text-decoration: none;
-} */
+}
